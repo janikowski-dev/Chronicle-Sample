@@ -1,0 +1,3 @@
+[submodule "Plugins/Chronicle"]
+	path = Plugins/Chronicle
+	url = https://github.com/janikowski-dev/Chronicle
